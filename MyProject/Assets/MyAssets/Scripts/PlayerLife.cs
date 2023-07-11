@@ -12,6 +12,7 @@ public class PlayerLife : MonoBehaviour
     string EnemyTag = "Enemy";
     Rigidbody2D myrigidbody;
     Animator animator;
+    
 
     private void Start() {
         myrigidbody = GetComponent<Rigidbody2D>();

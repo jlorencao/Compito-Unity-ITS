@@ -10,4 +10,9 @@ public class StartController : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+    
+    public void CloseApp()
+    {
+       Application.Quit();
+    }
 }
