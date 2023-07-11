@@ -7,4 +7,4 @@ C# Language
 
 # Assets used: Imported from Unity Assets Store
 - Knight Sprite Sheet (Free) from Kin Ng  (https://assetstore.unity.com/packages/2d/environments/pixel-art-platformer-village-props-166114)
-Pixel Art Platformer - Village Props - From Cainos (https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
+- Pixel Art Platformer - Village Props - From Cainos (https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897)
