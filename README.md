@@ -1,5 +1,5 @@
 # Compito-Unity-ITS
-An 2D Game Project for the Unity Game Lab on ITS.
+A 2D Game Project for the Unity Game Lab on ITS.
 
 # Technologies Used
 Unity Version 2021.3.26f1
